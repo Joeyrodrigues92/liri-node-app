@@ -1,6 +1,6 @@
 # LIRI-NODE
 
-![Alt text](http://imgur.com/a/jvvJF?raw=true)
+![Alt text](http://imgur.com/a/jvvJF)
 
 Language Interpretation and Recognition Interface (LIRI) with Node.js
 
